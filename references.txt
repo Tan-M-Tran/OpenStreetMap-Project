@@ -1,0 +1,4 @@
+https://discussions.udacity.com/c/nd002-data-wrangling
+
+I have used a lot of the code in the case study lecture as well as finding helpful snippets of code relevant to the issues I was running into
+in the Udacity forums.

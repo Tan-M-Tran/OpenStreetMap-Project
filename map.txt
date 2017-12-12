@@ -1,0 +1,8 @@
+The city I chose is San Jose, CA
+
+https://www.openstreetmap.org/relation/112143
+https://mapzen.com/data/metro-extracts/metro/san-jose_california/
+
+San Jose is a big city located in the San Francisco Bay area. I chose this city because I have spent most of my life here.
+The pre-selected extract from mapzen encompasses a much larger area than the region shown in the openstreetmap website.
+Because of this, my map data includes data from various surrounding cities such as Cupertino and Sunnyvale.
